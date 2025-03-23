@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="title_activity_fav">FavActivity</string>
+    <string name="title_activity_serach">SerachActivity</string>
+</resources>
